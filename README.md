@@ -1,0 +1,2 @@
+# DiscRuletti
+Discordbot Ruletti (beta)
